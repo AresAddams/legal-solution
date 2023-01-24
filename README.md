@@ -7,6 +7,4 @@
 ----------------
 
 "# -legal-house-AresAddams" 
-"# legal-solution" 
-"# Legal-Solution" 
-"# legal-solution" 
+#responsive for desktop/mobile devices
